@@ -1,2 +1,2 @@
 def x(a,b):
-    return a-b
+    return abs(a-b)
