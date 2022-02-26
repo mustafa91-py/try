@@ -4,4 +4,4 @@ class Topla:
         self.b = b
         print(a+b)
     def a(self):
-        return a
+        return self.a
