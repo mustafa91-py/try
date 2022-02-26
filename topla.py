@@ -3,3 +3,5 @@ class Topla:
         self.a = a
         self.b = b
         print(a+b)
+    def a(self):
+        return a
